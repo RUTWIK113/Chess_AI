@@ -1,8 +1,3 @@
-
-Sure! Here's a **human-friendly, simple, and engaging README** based on your project and the content you provided, tailored for new users and contributors:
-
----
-
 # ♟️ Chess AI with Pygame
 
 A fun and simple chess game built with Python and [Pygame](https://www.pygame.org/). You can play against a friend — or test your skills against an AI that thinks ahead using the Negamax algorithm with alpha-beta pruning!
